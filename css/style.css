@@ -34,3 +34,44 @@ h4{
     width:85%;
     height:15%;
 }
+
+.imgpost{
+    width:80%;
+    height:574px;
+}
+.imgpost2{
+    margin-left:10%;
+    height:574px;
+    width:80%
+}
+.imgpost3{
+    height:574px;
+}
+.postlink{
+    text-decoration: none;
+    color:black;
+}
+
+.postlink:hover{
+    color:rgb(0, 140, 255)
+}
+
+.centerp{
+    margin-left:10%;
+    width:80%;
+}
+.centerw{
+    margin-left:40%;
+    width:80%;
+}
+
+.tomas{
+    margin-left:45%;
+    height:82px;
+    width:82px;
+    background-repeat:no-repeat;
+}
+
+.linktag:hover{
+    text-decoration:underline;
+}
