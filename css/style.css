@@ -65,6 +65,11 @@ h4{
     width:80%;
 }
 
+.centerc{
+    margin-left:30%;
+    width:50%;
+}
+
 .tomas{
     margin-left:45%;
     height:82px;
@@ -74,4 +79,13 @@ h4{
 
 .linktag:hover{
     text-decoration:underline;
+}
+
+.morer{
+    margin-left:90%;
+    font-size:large;
+}
+
+.lak{
+    width:20%;
 }
