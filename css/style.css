@@ -2,6 +2,9 @@
 .header{
     line-height: 100%;
 }
+body{
+    background-color: #F9F9FB;
+}
 .vkicon{
     height:20px;
     width:20px;
@@ -28,7 +31,10 @@
     height: 40px;
     background-repeat: no-repeat;
 }
-
+.cmnt{
+    height:120px;
+    line-height:20px;
+}
 
 h4{
     width:85%;
@@ -75,6 +81,24 @@ h4{
     height:82px;
     width:82px;
     background-repeat:no-repeat;
+}
+
+.brian{
+    height:82px;
+    width:82px;
+}
+.comenthead{
+    margin-left:30%;
+}
+.comment{
+    margin-left:40%;
+}
+.reply{
+    margin-left:35%;
+}
+
+.replybtn{
+    height:20%;
 }
 
 .linktag:hover{
